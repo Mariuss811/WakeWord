@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Svenjamin",
   "author": "Marius",
-  "model": "svenjamin.tflite",
+  "model": "https://github.com/Mariuss811/WakeWord/blob/main/models/svenjamin/svenjamin.tflite",
   "trained_languages": ["en","nl","fr","de","it","es","sv"],
   "version": 2,
   "micro": {
