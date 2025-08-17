@@ -2,8 +2,8 @@
   "type": "micro",
   "wake_word": "Svenjamin",
   "author": "Marius",
-  "model": "https://github.com/Mariuss811/WakeWord/raw/main/models/svenjamin/svenjamin.tflite",
-  "trained_languages": ["en","nl","fr","de","it","es","sv"],
+  "model": "svenjamin.tflite",
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.85,
