@@ -4,7 +4,7 @@
   "author": "Marius",
   "model": "svenjamin.tflite",
   "website": "https://github.com/Mariuss811/WakeWord/",
-  "trained_languages": ["en"],
+  "trained_languages": ["en","de"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.5,
